@@ -6,7 +6,7 @@
 
 ![Rohy20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohy20&show_icons=true&theme=tokyonight) 
 
-### Tecnologias que venho estudando
+### Tecnologias que estou familiarizado
 
 <div style="display: inline_block"><br/>
     <img alt="html:5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
