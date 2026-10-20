@@ -40,6 +40,9 @@ sistemas operacionais, bancos de dados e segurança da informação.
 ## 📂 Projetos
 
 Confira meus repositórios para acompanhar meus estudos e projetos práticos.
+Agendai
+https://github.com/trsaints/projeto-2a.git
+Agendai é uma aplicação gráfica desenvolvida com o objetivo de gerenciar compromissos pessoais e profissionais de forma prática e organizada. Voltada para uso individual, permite o registro, edição e consulta de eventos, funcionando como um sistema pessoal de organização de tarefas e agendamentos.
 
 <!-- Adicione aqui seus projetos mais relevantes, com uma breve descrição e o link do repositório. -->
 
